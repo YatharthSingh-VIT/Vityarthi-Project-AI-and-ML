@@ -1,3 +1,7 @@
+**Name:** Yatharth Singh
+
+**Registration No:** 25BAI10657
+
 # Project Statement
 ## Algorithm Visualizer + Performance Comparator
 
