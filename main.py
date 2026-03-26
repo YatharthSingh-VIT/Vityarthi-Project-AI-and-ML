@@ -1,3 +1,8 @@
+# Project: Algorithm Visualizer + Performance Comparator
+# Author:  Yatharth Singh
+# Reg No:  25BAI10657
+# Course:  CSA2001 — Fundamentals in AI and ML
+
 import sys
 import os
 
