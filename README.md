@@ -1,3 +1,9 @@
+## Author
+**Name:** Yatharth Singh
+
+**Reg No:** 25BAI10657
+**Institution:** VIT Bhopal University
+
 # Algorithm Visualizer — Pathfinding Explorer
 
 An interactive desktop application that **animates five classical AI search algorithms** on a hand-drawn grid and lets you measure their performance side-by-side in real time.
