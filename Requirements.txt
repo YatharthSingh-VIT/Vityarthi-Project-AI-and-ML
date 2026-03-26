@@ -1,0 +1,39 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Algorithm Visualizer — Pathfinding Explorer
+# CSA2001 BYOP Capstone
+# ─────────────────────────────────────────────────────────────────────────────
+#
+# This project uses ONLY the Python standard library.
+# No third-party packages are required.
+#
+# Standard library modules used:
+#   tkinter       — GUI framework (grid canvas, widgets, animation loop)
+#   heapq         — Priority queue for A* and UCS
+#   collections   — deque for BFS and Bidirectional BFS queues
+#   time          — perf_counter for millisecond timing
+#   random        — maze generation and random wall placement
+#   sys, os       — module path setup in main.py
+#
+# ─────────────────────────────────────────────────────────────────────────────
+# Python version requirement: 3.9 or later
+# ─────────────────────────────────────────────────────────────────────────────
+#
+# tkinter is bundled with CPython on Windows and macOS.
+# On Ubuntu / Debian Linux, install it separately:
+#
+#   sudo apt-get install python3-tk
+#
+# On Fedora / RHEL:
+#
+#   sudo dnf install python3-tkinter
+#
+# On Arch Linux:
+#
+#   sudo pacman -S tk
+#
+# ─────────────────────────────────────────────────────────────────────────────
+# No pip install needed. Run directly:
+#
+#   python main.py
+#
+# ─────────────────────────────────────────────────────────────────────────────
